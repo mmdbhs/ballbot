@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "pid.h": "c",
+        "arduino.h": "c"
+    }
+}
